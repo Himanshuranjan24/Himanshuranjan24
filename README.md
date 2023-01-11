@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **himanshuranjan2410@gmail.com**
 
-- ⚡ Fun fact **Data Science is Not for Everyone😊**4
+- ⚡ Fun fact **Data Science is Not for Everyone😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
