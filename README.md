@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://https://himanshuranjan24mx.vercel.app//api?username=himanshuranjan24&show_icons=true&locale=en&theme=radical" alt="himanshuranjan24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuranjan24&" alt="himanshuranjan24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuranjan24&theme=radical"alt="himanshuranjan24" /></p>
